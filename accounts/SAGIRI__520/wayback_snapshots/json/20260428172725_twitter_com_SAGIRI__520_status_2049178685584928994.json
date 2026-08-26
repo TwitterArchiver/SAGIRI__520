@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2049132610933366866",
+    "created_at": "2026-04-28T17:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049178685584928994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528005407469346818",
+          "start": 0,
+          "username": "K1raK1ra818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049178685584928994",
+    "in_reply_to_user_id": "1528005407469346818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049137209199165581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1raK1ra818 禁之前買的了，現在不知道了之前拼多多就有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2049132610933366866",
+        "created_at": "2026-04-28T17:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049178685584928994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528005407469346818",
+              "start": 0,
+              "username": "K1raK1ra818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049178685584928994",
+        "in_reply_to_user_id": "1528005407469346818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049137209199165581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1raK1ra818 禁之前買的了，現在不知道了之前拼多多就有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528005407469346818",
+        "conversation_id": "2049132610933366866",
+        "created_at": "2026-04-28T14:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049137209199165581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868259773067476992",
+              "start": 0,
+              "username": "SAGIRI__520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049137209199165581",
+        "in_reply_to_user_id": "1868259773067476992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049132610933366866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAGIRI__520 怎麼買到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 100,
+          "like_count": 318,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 381
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T13:31:04.000Z",
+        "description": "CN⭕/JP⭕。\n一般路過二次元音企廚，手毬P。\n深坑bangdream/imas/少歌等。\n已戒毒，現在是死菸鬼型態。\n苯二氮卓享受者（治療劑量）。\n歡迎互fo，看到都會回。\n熱戀中。\n罵我先罵：@Jaime_Rimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          }
+        },
+        "id": "1528005407469346818",
+        "name": "愛姫",
+        "pinned_tweet_id": "2018555992552968209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048169331494989824/fVUzh7l2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 813,
+          "like_count": 15568,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 3682
+        },
+        "username": "K1raK1ra818",
+        "verified": false
+      }
+    ]
+  }
+}

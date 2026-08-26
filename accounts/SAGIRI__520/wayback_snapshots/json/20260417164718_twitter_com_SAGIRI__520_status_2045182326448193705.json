@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044922393924378624"
+      ],
+      "media_source_tweet_id": [
+        "2044922397296578645"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      }
+    ],
+    "conversation_id": "2045182326448193705",
+    "created_at": "2026-04-17T16:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045182326448193705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1551342229016305666",
+          "start": 3,
+          "username": "_negau_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/utlVyTZkjw",
+          "end": 48,
+          "expanded_url": "https://x.com/_negau_2/status/2044922397296578645/photo/1",
+          "media_key": "3_2044922393924378624",
+          "start": 25,
+          "url": "https://t.co/utlVyTZkjw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045182326448193705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 229
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044922397296578645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_negau_2: 🍨かわいいデザート🍰 https://t.co/utlVyTZkjw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044922393924378624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGEGFTMaoAAKQrr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044922393924378624"
+          ],
+          "media_source_tweet_id": [
+            "2044922397296578645"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2045182326448193705",
+        "created_at": "2026-04-17T16:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045182326448193705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1551342229016305666",
+              "start": 3,
+              "username": "_negau_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/utlVyTZkjw",
+              "end": 48,
+              "expanded_url": "https://x.com/_negau_2/status/2044922397296578645/photo/1",
+              "media_key": "3_2044922393924378624",
+              "start": 25,
+              "url": "https://t.co/utlVyTZkjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045182326448193705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 229
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044922397296578645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_negau_2: 🍨かわいいデザート🍰 https://t.co/utlVyTZkjw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044922393924378624"
+          ]
+        },
+        "author_id": "1551342229016305666",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2044922397296578645",
+        "created_at": "2026-04-16T23:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T00:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044922397296578645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/utlVyTZkjw",
+              "end": 34,
+              "expanded_url": "https://x.com/_negau_2/status/2044922397296578645/photo/1",
+              "media_key": "3_2044922393924378624",
+              "start": 11,
+              "url": "https://t.co/utlVyTZkjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044922397296578645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 12800,
+          "like_count": 2015,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 229
+        },
+        "reply_settings": "everyone",
+        "text": "🍨かわいいデザート🍰 https://t.co/utlVyTZkjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043366201502597120/15BVF0-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 94,
+          "like_count": 304,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 343
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T23:03:21.000Z",
+        "description": "心の絵日記 / メインアカウント→@_negau_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "_negau_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/irasuto_0r",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/irasuto_0r",
+                "start": 0,
+                "url": "https://t.co/TinpCMbPmz"
+              }
+            ]
+          }
+        },
+        "id": "1551342229016305666",
+        "location": "⚠裸体.傷",
+        "name": "願U/negaU の 深淵",
+        "pinned_tweet_id": "2043268392799670676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971572915138420736/Iy1FDUef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11201,
+          "following_count": 0,
+          "like_count": 46,
+          "listed_count": 38,
+          "media_count": 209,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/TinpCMbPmz",
+        "username": "_negau_2",
+        "verified": false
+      }
+    ]
+  }
+}

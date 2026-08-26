@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2052644807491866693",
+    "created_at": "2026-05-09T12:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053084764832506230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053084764832506230",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052650112632197462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 我也一樣，就拿來當安眠藥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2052644807491866693",
+        "created_at": "2026-05-09T12:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053084764832506230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053084764832506230",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052650112632197462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 我也一樣，就拿來當安眠藥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016028559228469252",
+        "conversation_id": "2052644807491866693",
+        "created_at": "2026-05-08T07:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052650112632197462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868259773067476992",
+              "start": 0,
+              "username": "SAGIRI__520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052650112632197462",
+        "in_reply_to_user_id": "1868259773067476992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052644807491866693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAGIRI__520 我一直吃这个感觉没啥用唉 就当安眠药吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 103,
+          "like_count": 338,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 422
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "看成分互fo",
+        "id": "2016028559228469252",
+        "name": "Alvvays",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022337587634184192/YhxEbD39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 32,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 224
+        },
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

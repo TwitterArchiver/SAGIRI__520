@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "1986824452626411957",
+    "created_at": "2025-11-08T12:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T13:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987136296733815251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913955449311051776",
+          "start": 0,
+          "username": "mia_kelly43663"
+        },
+        {
+          "end": 25,
+          "id": "1774638060963008512",
+          "start": 16,
+          "username": "LST12123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987136296733815251",
+    "in_reply_to_user_id": "1913955449311051776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987048553693519924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mia_kelly43663 @LST12123 頭像是智子嘛！超有品耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "1986824452626411957",
+        "created_at": "2025-11-08T12:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T13:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987136296733815251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913955449311051776",
+              "start": 0,
+              "username": "mia_kelly43663"
+            },
+            {
+              "end": 25,
+              "id": "1774638060963008512",
+              "start": 16,
+              "username": "LST12123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987136296733815251",
+        "in_reply_to_user_id": "1913955449311051776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987048553693519924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mia_kelly43663 @LST12123 頭像是智子嘛！超有品耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913955449311051776",
+        "conversation_id": "1986824452626411957",
+        "created_at": "2025-11-08T06:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T07:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987048553693519924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1774638060963008512",
+              "start": 0,
+              "username": "LST12123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987048553693519924",
+        "in_reply_to_user_id": "1774638060963008512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986824452626411957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LST12123 有人能陪陪我聊聊天吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "普通高中生的抽象日常罢了\n\n08/双向情感障碍/自傷/od/宅",
+        "id": "1868259773067476992",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987135081895661568/r8jaiM8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 31,
+          "like_count": 119,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 106
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T14:00:12.000Z",
+        "description": "",
+        "id": "1913955449311051776",
+        "name": "💤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961268271061127168/asquo6qY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 1435,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 48
+        },
+        "username": "mia_kelly43663",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T03:21:16.000Z",
+        "description": "07男，郑州傻卵二次元：粥批|音游人|邦邦人|英雄联盟|三角洲|FGO     \n线上小皇帝线下小怂逼\n欢迎找我互fo！（我不是男娘！也不是同）随缘设🚪➕v（100粉抽红包）\n  @0xo_snow 快去关注这个入",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 90,
+                "username": "0xo_snow"
+              }
+            ]
+          }
+        },
+        "id": "1774638060963008512",
+        "name": "困困神",
+        "pinned_tweet_id": "1987020077179568284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978672734499704832/6yWQMv9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 126,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 83
+        },
+        "username": "LST12123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2034902908882571619",
+    "created_at": "2026-04-02T06:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T07:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039585383525306402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852580559022682112",
+          "start": 0,
+          "username": "Dechala6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039585383525306402",
+    "in_reply_to_user_id": "1852580559022682112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034902908882571619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dechala6 我靠！前幾天才關注的v在推上刷到了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30690,
+        "height": 1280,
+        "media_key": "13_2034902776015462400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034902776015462400/img/504p-flHwPLKCL14.jpg",
+        "public_metrics": {
+          "view_count": 3990
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034902776015462400/vid/avc1/320x568/agxiRWekgk32yc5N.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034902776015462400/vid/avc1/480x852/aaQ3m-Un_9yIBik-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034902776015462400/vid/avc1/720x1280/YzeI6ZroxIdYiSlY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034902776015462400/pl/UEj-w32oAkgosBiY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2034902908882571619",
+        "created_at": "2026-04-02T06:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039585383525306402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852580559022682112",
+              "start": 0,
+              "username": "Dechala6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039585383525306402",
+        "in_reply_to_user_id": "1852580559022682112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034902908882571619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dechala6 我靠！前幾天才關注的v在推上刷到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034902776015462400"
+          ]
+        },
+        "author_id": "1852580559022682112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2034902908882571619",
+        "created_at": "2026-03-20T08:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034902908882571619"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "vtuber"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "ディサラ"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "虚拟主播"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TYk2Y88LQC",
+              "end": 84,
+              "expanded_url": "https://x.com/Dechala6/status/2034902908882571619/video/1",
+              "media_key": "13_2034902776015462400",
+              "start": 61,
+              "url": "https://t.co/TYk2Y88LQC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034902908882571619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 9353,
+          "like_count": 214,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是迪莎拉，我入驻大黑叉啦！\n先发一条墙内无法过审的无码版拟声词挑战！😋\n#vtuber #ディサラ #虚拟主播 https://t.co/TYk2Y88LQC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033200309066178560/jrHaSlp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 96,
+          "like_count": 287,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 314
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T05:16:50.000Z",
+        "description": "大陆虚拟主播，活动在bilibili\n喜欢迪莎拉可以翻进来看看我呀！\n如果好久没更新那就是VPN到期了！\n链接是我的直播间地址（需要VPN）\n直播时间是北京时间10：40am&22：30",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "live.bilibili.com/1844415177",
+                "end": 23,
+                "expanded_url": "https://live.bilibili.com/1844415177",
+                "start": 0,
+                "url": "https://t.co/S5IQ4biXxn"
+              }
+            ]
+          }
+        },
+        "id": "1852580559022682112",
+        "location": "China",
+        "name": "迪莎拉Dechala",
+        "pinned_tweet_id": "2034902908882571619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034901709374574592/nK-m87Ab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 4,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/S5IQ4biXxn",
+        "username": "Dechala6",
+        "verified": false
+      }
+    ]
+  }
+}

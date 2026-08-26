@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090861766083530752"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2090861773717135702",
+    "created_at": "2026-08-21T18:01:07.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090861773717135702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/br3AqAGIRh",
+          "end": 115,
+          "expanded_url": "https://x.com/SAGIRI__520/status/2090861773717135702/photo/1",
+          "media_key": "3_2090861766083530752",
+          "start": 92,
+          "url": "https://t.co/br3AqAGIRh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090861773717135702",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090861766083530752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帮助需要的人进行正确科学的od，避免造成不必要的损伤，想化学极乐的可以来咨询我，我会在我力所能及的范围内给你们提供用药建议，避免遇到bad trip\n\n希望所有oder们早日脱离苦海 https://t.co/br3AqAGIRh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1819,
+        "media_key": "3_2090861766083530752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQ7ssna0AAkmta.jpg",
+        "width": 1819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090861766083530752"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2090861773717135702",
+        "created_at": "2026-08-21T18:01:07.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090861773717135702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/br3AqAGIRh",
+              "end": 115,
+              "expanded_url": "https://x.com/SAGIRI__520/status/2090861773717135702/photo/1",
+              "media_key": "3_2090861766083530752",
+              "start": 92,
+              "url": "https://t.co/br3AqAGIRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090861773717135702",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090861766083530752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帮助需要的人进行正确科学的od，避免造成不必要的损伤，想化学极乐的可以来咨询我，我会在我力所能及的范围内给你们提供用药建议，避免遇到bad trip\n\n希望所有oder们早日脱离苦海 https://t.co/br3AqAGIRh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "08/od/自伤/双向/宅属性/不登校/药代\n欢迎扩列",
+        "id": "1868259773067476992",
+        "is_identity_verified": false,
+        "location": "盧布朗咖啡廳",
+        "most_recent_tweet_id": "2090861773717135702",
+        "name": "𓏵喵小懒𓏵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868259773067476992/1776547339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 103,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "SAGIRI__520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

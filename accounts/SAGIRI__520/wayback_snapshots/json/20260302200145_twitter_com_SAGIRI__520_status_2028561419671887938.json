@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2028561419671887938",
+    "created_at": "2026-03-02T20:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T21:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028561419671887938"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028561419671887938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果無計可施的話\n2044.6.13\n是我自己選的忌日\n和生日是一天，這樣就算我沒有出生過吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2028561419671887938",
+        "created_at": "2026-03-02T20:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T21:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028561419671887938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028561419671887938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果無計可施的話\n2044.6.13\n是我自己選的忌日\n和生日是一天，這樣就算我沒有出生過吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟",
+        "id": "1868259773067476992",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009692752465059840/53qy4-Wm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 40,
+          "like_count": 164,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 169
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      }
+    ]
+  }
+}

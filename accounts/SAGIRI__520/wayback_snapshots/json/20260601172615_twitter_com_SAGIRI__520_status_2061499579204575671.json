@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2061499579204575671",
+    "created_at": "2026-06-01T17:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061499579204575671"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061499579204575671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近沒有怎麼經營賬號開始掉粉了，其實這樣也好，我可以放心的說些心裏話，這一段時間一直在積極治療！希望有一天我真的可以好起來，我不再依賴藥物，不再自我傷害以獲取短暫的平靜，我希望我的日子一直這樣平靜的過下去，任何人任何事都不要影響到我，我不要再墮落下去了，我要為了自己而活，僅此而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2061499579204575671",
+        "created_at": "2026-06-01T17:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061499579204575671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061499579204575671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近沒有怎麼經營賬號開始掉粉了，其實這樣也好，我可以放心的說些心裏話，這一段時間一直在積極治療！希望有一天我真的可以好起來，我不再依賴藥物，不再自我傷害以獲取短暫的平靜，我希望我的日子一直這樣平靜的過下去，任何人任何事都不要影響到我，我不要再墮落下去了，我要為了自己而活，僅此而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 101,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 458
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      }
+    ]
+  }
+}

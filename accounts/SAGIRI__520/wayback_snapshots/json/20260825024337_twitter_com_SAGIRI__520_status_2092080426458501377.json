@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2091834877733711996",
+    "created_at": "2026-08-25T02:43:37.000Z",
+    "display_text_range": [
+      14,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092080426458501377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090032448050524161",
+          "start": 0,
+          "username": "Yuki1161taff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092080426458501377",
+    "in_reply_to_user_id": "2090032448050524161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092041872248058205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161taff 歧哥能不能互fo我是你粉丝😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2091834877733711996",
+        "created_at": "2026-08-25T02:43:37.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092080426458501377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090032448050524161",
+              "start": 0,
+              "username": "Yuki1161taff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092080426458501377",
+        "in_reply_to_user_id": "2090032448050524161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092041872248058205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161taff 歧哥能不能互fo我是你粉丝😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090032448050524161",
+        "conversation_id": "2091834877733711996",
+        "created_at": "2026-08-25T00:10:25.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092041872248058205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868259773067476992",
+              "start": 0,
+              "username": "SAGIRI__520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092041872248058205",
+        "in_reply_to_user_id": "1868259773067476992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091834877733711996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAGIRI__520 实话"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08/od/自伤/双向/宅属性/不登校/药代/🚪30\n免费药物作用咨询\n欢迎扩列",
+        "id": "1868259773067476992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2092080426458501377",
+        "name": "𓏵喵小懒𓏵",
+        "pinned_tweet_id": "2090861773717135702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868259773067476992/1776547339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 115,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "SAGIRI__520",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:07:46.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Cecey33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "Cecey33"
+              }
+            ]
+          }
+        },
+        "id": "2090032448050524161",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092053048143024150",
+        "name": "岐哥，梦想死了。5.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090032448050524161/1787138596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090749356563435520/4YysT5u8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 221,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "Yuki1161taff",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2090882007035486292",
+    "created_at": "2026-08-24T16:29:58.000Z",
+    "display_text_range": [
+      16,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T17:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091925996182310971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027798783514578944",
+          "start": 0,
+          "username": "Delete_Later00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091925996182310971",
+    "in_reply_to_user_id": "2027798783514578944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091854163164483649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Delete_Later00 主要是麻黄碱，我要的东西和大麻不一样的🤓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091854163164483649].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091854163164483649",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091854163164483649"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2090882007035486292",
+        "created_at": "2026-08-24T16:29:58.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091925996182310971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027798783514578944",
+              "start": 0,
+              "username": "Delete_Later00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091925996182310971",
+        "in_reply_to_user_id": "2027798783514578944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091854163164483649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Delete_Later00 主要是麻黄碱，我要的东西和大麻不一样的🤓"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08/od/自伤/双向/宅属性/不登校/药代\n免费药物作用咨询\n欢迎扩列",
+        "id": "1868259773067476992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2091925996182310971",
+        "name": "𓏵喵小懒𓏵",
+        "pinned_tweet_id": "2090861773717135702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868259773067476992/1776547339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 108,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "SAGIRI__520",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T17:35:30.000Z",
+        "description": "Alt!😈priv, not main",
+        "id": "2027798783514578944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2050506507595522168",
+        "name": "#0A29F6",
+        "pinned_tweet_id": "2028209120768319942",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027798783514578944/1772300760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030984376679596032/53aPyMOt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 10,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 490
+        },
+        "url": "",
+        "username": "Delete_Later00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

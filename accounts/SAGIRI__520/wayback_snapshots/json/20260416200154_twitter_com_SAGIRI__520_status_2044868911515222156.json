@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2044406019510665409",
+    "created_at": "2026-04-16T20:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T21:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044868911515222156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697178151804186624",
+          "start": 0,
+          "username": "daodaosama1125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044868911515222156",
+    "in_reply_to_user_id": "1697178151804186624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044406019510665409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daodaosama1125 看的我這個爽。一定要一直畫下去啊😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044405992830664705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8wazNaAAEJKcK.jpg",
+        "width": 1598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2044406019510665409",
+        "created_at": "2026-04-16T20:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T21:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044868911515222156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697178151804186624",
+              "start": 0,
+              "username": "daodaosama1125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044868911515222156",
+        "in_reply_to_user_id": "1697178151804186624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044406019510665409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daodaosama1125 看的我這個爽。一定要一直畫下去啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044405992830664705"
+          ]
+        },
+        "author_id": "1697178151804186624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044406019510665409",
+        "created_at": "2026-04-15T13:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044406019510665409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/peTihcHvyC",
+              "end": 26,
+              "expanded_url": "https://x.com/daodaosama1125/status/2044406019510665409/photo/1",
+              "media_key": "3_2044405992830664705",
+              "start": 3,
+              "url": "https://t.co/peTihcHvyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044406019510665409",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 2579,
+          "like_count": 217,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "oc https://t.co/peTihcHvyC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043366201502597120/15BVF0-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 94,
+          "like_count": 301,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 342
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T09:23:11.000Z",
+        "description": "🚫ai。我使用中国语",
+        "id": "1697178151804186624",
+        "name": "岛shima",
+        "pinned_tweet_id": "2043275613646233692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020709307529220096/YOvg4aG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5963,
+          "following_count": 127,
+          "like_count": 2184,
+          "listed_count": 11,
+          "media_count": 23,
+          "tweet_count": 472
+        },
+        "username": "daodaosama1125",
+        "verified": false
+      }
+    ]
+  }
+}

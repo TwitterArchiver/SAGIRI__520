@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2050945621503479928",
+    "created_at": "2026-05-03T16:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050972340687888684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022371961503092736",
+          "start": 0,
+          "username": "asusu593407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050972340687888684",
+    "in_reply_to_user_id": "2022371961503092736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050957681528340753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asusu593407 原來如此，差點就o了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2050945621503479928",
+        "created_at": "2026-05-03T16:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050972340687888684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022371961503092736",
+              "start": 0,
+              "username": "asusu593407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050972340687888684",
+        "in_reply_to_user_id": "2022371961503092736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050957681528340753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asusu593407 原來如此，差點就o了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022371961503092736",
+        "conversation_id": "2050945621503479928",
+        "created_at": "2026-05-03T15:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050957681528340753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868259773067476992",
+              "start": 0,
+              "username": "SAGIRI__520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050957681528340753",
+        "in_reply_to_user_id": "1868259773067476992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050945621503479928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAGIRI__520 血清素综合征正在你，再说这个也不好吃  药效太难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 102,
+          "like_count": 326,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 398
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T18:07:15.000Z",
+        "description": "🚪52纯绿陪聊情绪价值高ww你好宝宝♡(◜ω◝)♡总之祝你天天开心！  \n ｜双相｜重焦｜强迫型｜回避型｜完美主义｜厌食｜餐券｜od｜绘画｜Cosplay｜亚文化｜无性恋｜\n温良老鼠不键政，不吵架，不参与任何争议性话题，只会悄悄看着你。\n｜私信随时欢迎♡(◜ω◝)♡\n｜梦想是成为一个温暖的、幸福的人。",
+        "id": "2022371961503092736",
+        "location": "鼠窝",
+        "name": "Asu@老鼠碎碎念bot",
+        "pinned_tweet_id": "2036918447016423592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047035314095755264/5gFUd47P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 238,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 351
+        },
+        "username": "asusu593407",
+        "verified": false
+      }
+    ]
+  }
+}

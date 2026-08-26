@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2036903402962379027",
+    "created_at": "2026-03-25T20:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T21:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036903402962379027"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036903402962379027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感謝普瑞巴林，讓我做了一個很好的夢，我夢見我小時候媽媽帶我出去玩，那個瞬間，我進入夢的一瞬間我就知道這是夢來，我不知道為什麼，我從來沒有這樣過，後面醒了，因為藥的原因，我一直能看見我印象裏公園的湖，我很渴望回到家小時候，家裏沒有發生那些事，沒有家暴的時候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2036903402962379027",
+        "created_at": "2026-03-25T20:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T21:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036903402962379027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036903402962379027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感謝普瑞巴林，讓我做了一個很好的夢，我夢見我小時候媽媽帶我出去玩，那個瞬間，我進入夢的一瞬間我就知道這是夢來，我不知道為什麼，我從來沒有這樣過，後面醒了，因為藥的原因，我一直能看見我印象裏公園的湖，我很渴望回到家小時候，家裏沒有發生那些事，沒有家暴的時候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033200309066178560/jrHaSlp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 90,
+          "like_count": 282,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 289
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      }
+    ]
+  }
+}

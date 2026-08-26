@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2055387540295942485",
+    "created_at": "2026-05-17T06:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055891965330489577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001409948522348544",
+          "start": 0,
+          "username": "komato520131422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055891965330489577",
+    "in_reply_to_user_id": "2001409948522348544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055853045834191214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komato520131422 太對了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2055387540295942485",
+        "created_at": "2026-05-17T06:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055891965330489577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001409948522348544",
+              "start": 0,
+              "username": "komato520131422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055891965330489577",
+        "in_reply_to_user_id": "2001409948522348544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055853045834191214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komato520131422 太對了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001409948522348544",
+        "conversation_id": "2055387540295942485",
+        "created_at": "2026-05-17T03:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055853045834191214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868259773067476992",
+              "start": 0,
+              "username": "SAGIRI__520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055853045834191214",
+        "in_reply_to_user_id": "1868259773067476992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055387540295942485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAGIRI__520 耳钉是极好的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 103,
+          "like_count": 349,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 448
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T21:51:44.000Z",
+        "description": "究极炫压抑之人，国男我求你了别来关注我，这里只是我说废话和跟我的日本朋友们一起玩的地方(跟我互关的宝宝们我都爱你)\n喜欢交朋友，可以说日语但是看不懂日文\n不发裸照，查成分互fo，喜欢玩游戏看动漫，性压抑和暴露狂的男的死全家，❌❌AI NG！❌❌\nvalo，vrc，mc，喵斯，p系列，人狼村，弹丸论破",
+        "id": "2001409948522348544",
+        "location": "Kanagawa-ken, Japan",
+        "name": "Komato",
+        "pinned_tweet_id": "2044013239785406947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052027343246647296/-0C0SJMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 125,
+          "like_count": 460,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1840
+        },
+        "username": "komato520131422",
+        "verified": false
+      }
+    ]
+  }
+}

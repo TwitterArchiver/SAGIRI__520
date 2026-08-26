@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "1940426928370106577",
+    "created_at": "2026-01-03T05:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T06:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007326072241827948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913955449311051776",
+          "start": 0,
+          "username": "mia_kelly43663"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007326072241827948",
+    "in_reply_to_user_id": "1913955449311051776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006642432281293308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mia_kelly43663 唉？😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "1940426928370106577",
+        "created_at": "2026-01-03T05:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007326072241827948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913955449311051776",
+              "start": 0,
+              "username": "mia_kelly43663"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007326072241827948",
+        "in_reply_to_user_id": "1913955449311051776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006642432281293308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mia_kelly43663 唉？😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913955449311051776",
+        "conversation_id": "1940426928370106577",
+        "created_at": "2026-01-01T08:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T09:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006642432281293308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868259773067476992",
+              "start": 0,
+              "username": "SAGIRI__520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006642432281293308",
+        "in_reply_to_user_id": "1868259773067476992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940426928370106577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAGIRI__520 不要宝子，我爱你\n你死了就头晕不了了，就爽不了了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "普通高中生的抽象日常罢了\n\n08/双向情感障碍/自傷/od/宅",
+        "id": "1868259773067476992",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987135081895661568/r8jaiM8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 36,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 109
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T14:00:12.000Z",
+        "description": "",
+        "id": "1913955449311051776",
+        "name": "💤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961268271061127168/asquo6qY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 25,
+          "like_count": 4039,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 74
+        },
+        "username": "mia_kelly43663",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2050974933749231632",
+    "created_at": "2026-05-03T16:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050974933749231632"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050974933749231632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠吃這個阿立哌唑不得給我胖死啊😭😭😭下次問問能不能給我換魯拉西酮😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2050974933749231632",
+        "created_at": "2026-05-03T16:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050974933749231632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050974933749231632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠吃這個阿立哌唑不得給我胖死啊😭😭😭下次問問能不能給我換魯拉西酮😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 102,
+          "like_count": 328,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 402
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      }
+    ]
+  }
+}

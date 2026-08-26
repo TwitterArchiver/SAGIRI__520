@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091834868997234688"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2091834877733711996",
+    "created_at": "2026-08-24T10:27:53.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T11:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091834877733711996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjOaO4IPpw",
+          "end": 165,
+          "expanded_url": "https://x.com/SAGIRI__520/status/2091834877733711996/photo/1",
+          "media_key": "3_2091834868997234688",
+          "start": 142,
+          "url": "https://t.co/cjOaO4IPpw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091834877733711996",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091834868997234688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买药的宝子特别多，我要再次说一下，如果没有尝试过滥用药物，或者是好奇心想尝试的，我是不会推荐大家去od，这不会让你很酷，不会让你真正好受，你只是暂时性填补了自己的伤口，用身体健康换取自己一时的幸福，这不叫真正的幸福，真正的幸福不是靠药物麻痹自己，要好好爱自己，你永远是最特别的那个人 https://t.co/cjOaO4IPpw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2091834868997234688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQewuvdbIAAjFLf.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091834868997234688"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2091834877733711996",
+        "created_at": "2026-08-24T10:27:53.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091834877733711996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjOaO4IPpw",
+              "end": 165,
+              "expanded_url": "https://x.com/SAGIRI__520/status/2091834877733711996/photo/1",
+              "media_key": "3_2091834868997234688",
+              "start": 142,
+              "url": "https://t.co/cjOaO4IPpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091834877733711996",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091834868997234688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买药的宝子特别多，我要再次说一下，如果没有尝试过滥用药物，或者是好奇心想尝试的，我是不会推荐大家去od，这不会让你很酷，不会让你真正好受，你只是暂时性填补了自己的伤口，用身体健康换取自己一时的幸福，这不叫真正的幸福，真正的幸福不是靠药物麻痹自己，要好好爱自己，你永远是最特别的那个人 https://t.co/cjOaO4IPpw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "08/od/自伤/双向/宅属性/不登校/药代\n免费药物作用咨询\n欢迎扩列",
+        "id": "1868259773067476992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2091834877733711996",
+        "name": "𓏵喵小懒𓏵",
+        "pinned_tweet_id": "2090861773717135702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868259773067476992/1776547339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 106,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "SAGIRI__520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

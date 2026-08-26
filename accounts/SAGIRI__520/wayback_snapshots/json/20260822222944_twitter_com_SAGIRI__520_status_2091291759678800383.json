@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091291732411600896",
+        "3_2091291746303102976"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091291759678800383",
+    "created_at": "2026-08-22T22:29:44.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T23:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091291759678800383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fj74BNIP29",
+          "end": 28,
+          "expanded_url": "https://x.com/SAGIRI__520/status/2091291759678800383/photo/1",
+          "media_key": "3_2091291732411600896",
+          "start": 5,
+          "url": "https://t.co/Fj74BNIP29"
+        },
+        {
+          "display_url": "pic.x.com/Fj74BNIP29",
+          "end": 28,
+          "expanded_url": "https://x.com/SAGIRI__520/status/2091291759678800383/photo/1",
+          "media_key": "3_2091291746303102976",
+          "start": 5,
+          "url": "https://t.co/Fj74BNIP29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091291759678800383",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091291732411600896"
+      },
+      {
+        "media_key": "3_2091291746303102976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "圣地巡礼 https://t.co/Fj74BNIP29"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2303,
+        "media_key": "3_2091291732411600896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQXCwCAa0AAz77X.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2303,
+        "media_key": "3_2091291746303102976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQXCw1waUAAwhTJ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091291732411600896",
+            "3_2091291746303102976"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091291759678800383",
+        "created_at": "2026-08-22T22:29:44.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T23:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091291759678800383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fj74BNIP29",
+              "end": 28,
+              "expanded_url": "https://x.com/SAGIRI__520/status/2091291759678800383/photo/1",
+              "media_key": "3_2091291732411600896",
+              "start": 5,
+              "url": "https://t.co/Fj74BNIP29"
+            },
+            {
+              "display_url": "pic.x.com/Fj74BNIP29",
+              "end": 28,
+              "expanded_url": "https://x.com/SAGIRI__520/status/2091291759678800383/photo/1",
+              "media_key": "3_2091291746303102976",
+              "start": 5,
+              "url": "https://t.co/Fj74BNIP29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091291759678800383",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091291732411600896"
+          },
+          {
+            "media_key": "3_2091291746303102976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "圣地巡礼 https://t.co/Fj74BNIP29"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "08/od/自伤/双向/宅属性/不登校/药代\n免费药物作用咨询\n欢迎扩列",
+        "id": "1868259773067476992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2091291759678800383",
+        "name": "𓏵喵小懒𓏵",
+        "pinned_tweet_id": "2090861773717135702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868259773067476992/1776547339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 101,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 594
+        },
+        "url": "",
+        "username": "SAGIRI__520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

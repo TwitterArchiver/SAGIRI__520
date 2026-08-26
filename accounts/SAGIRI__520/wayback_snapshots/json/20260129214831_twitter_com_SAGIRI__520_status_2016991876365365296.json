@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2016991876365365296",
+    "created_at": "2026-01-29T21:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T22:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016991876365365296"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 139,
+          "normalized_text": "あめちゃん",
+          "probability": 0.5344,
+          "start": 135,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1980941101763842049",
+          "start": 3,
+          "username": "needygirl_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016991876365365296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2346
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016647481891962945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_anime: ─────•✦•─────\n　　　  劇場先行版\n 𝑁𝐸𝐸𝐷𝑌 𝐺𝐼𝑅𝐿 𝑂𝑉𝐸𝑅𝐷𝑂𝑆𝐸\n          -𝑂𝑉𝐸𝑅𝑇𝑈𝑅𝐸-\n─────•✦•─────\n\n超てんちゃん＆あめちゃんの\nイラストと共に公開カウントダウン\n \nあと…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2015707128347197440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k69BxbgAAkrKw.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2016991876365365296",
+        "created_at": "2026-01-29T21:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T22:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016991876365365296"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 139,
+              "normalized_text": "あめちゃん",
+              "probability": 0.5344,
+              "start": 135,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1980941101763842049",
+              "start": 3,
+              "username": "needygirl_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016991876365365296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2346
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016647481891962945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_anime: ─────•✦•─────\n　　　  劇場先行版\n 𝑁𝐸𝐸𝐷𝑌 𝐺𝐼𝑅𝐿 𝑂𝑉𝐸𝑅𝐷𝑂𝑆𝐸\n          -𝑂𝑉𝐸𝑅𝑇𝑈𝑅𝐸-\n─────•✦•─────\n\n超てんちゃん＆あめちゃんの\nイラストと共に公開カウントダウン\n \nあと…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015707128347197440"
+          ]
+        },
+        "author_id": "1980941101763842049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2016647481891962945",
+        "created_at": "2026-01-28T23:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016647481891962945"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 118,
+              "normalized_text": "あめちゃん",
+              "probability": 0.529,
+              "start": 114,
+              "type": "Person"
+            },
+            {
+              "end": 166,
+              "normalized_text": "梅田",
+              "probability": 0.5429,
+              "start": 165,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 173,
+              "start": 168,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "超絶最かわてんしちゃんがみんなの視線＆話題をかっさらう！　TVアニメ『NEEDY GIRL OVERDOSE』（ニディガ）2026年4月放送開始！",
+              "display_url": "needygirl-anime.com/theater/",
+              "end": 165,
+              "expanded_url": "https://needygirl-anime.com/theater/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2015058601900232704/19duxDRn?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2015058601900232704/19duxDRn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 142,
+              "status": 200,
+              "title": "劇場先行版『NEEDY GIRL OVERDOSE -OVERTURE-』 | TVアニメ『NEEDY GIRL OVERDOSE』公式サイト",
+              "unwound_url": "https://needygirl-anime.com/theater/",
+              "url": "https://t.co/wOT724wh3t"
+            },
+            {
+              "display_url": "pic.x.com/DGTxYepy1x",
+              "end": 197,
+              "expanded_url": "https://x.com/needygirl_anime/status/2016647481891962945/photo/1",
+              "media_key": "3_2015707128347197440",
+              "start": 174,
+              "url": "https://t.co/DGTxYepy1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016647481891962945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1127,
+          "impression_count": 213188,
+          "like_count": 14289,
+          "quote_count": 175,
+          "reply_count": 7,
+          "retweet_count": 2346
+        },
+        "reply_settings": "everyone",
+        "text": "─────•✦•─────\n　　　  劇場先行版\n 𝑁𝐸𝐸𝐷𝑌 𝐺𝐼𝑅𝐿 𝑂𝑉𝐸𝑅𝐷𝑂𝑆𝐸\n          -𝑂𝑉𝐸𝑅𝑇𝑈𝑅𝐸-\n─────•✦•─────\n\n超てんちゃん＆あめちゃんの\nイラストと共に公開カウントダウン\n \nあと3️⃣6️⃣日\n \n🎬3/6㊎テアトル新宿＆梅田\nhttps://t.co/wOT724wh3t\n \n#ニディガ https://t.co/DGTxYepy1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "普通高中生的抽象日常罢了\n\n08/双向情感障碍/自傷/od/宅",
+        "id": "1868259773067476992",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009692752465059840/53qy4-Wm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 38,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 120
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T10:17:13.000Z",
+        "description": "『NEEDY GIRL OVERDOSE』アニメ公式アカウント｜劇場先行版『NEEDY GIRL OVERDOSE -OVERTURE-』2026年3月6日（金）公開｜TVアニメ2026年4月放送開始｜アニメーション制作：Yostar Pictures｜【推奨タグ】#ニディガ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "ニディガ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "needygirl-anime.com",
+                "end": 23,
+                "expanded_url": "https://needygirl-anime.com/",
+                "start": 0,
+                "url": "https://t.co/6rMK2MRAWW"
+              }
+            ]
+          }
+        },
+        "id": "1980941101763842049",
+        "name": "アニメ『NEEDY GIRL OVERDOSE』公式",
+        "pinned_tweet_id": "2015036910625071502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009913374612795392/GyxBVqdp_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13123,
+          "following_count": 15,
+          "like_count": 3,
+          "listed_count": 30,
+          "media_count": 65,
+          "tweet_count": 94
+        },
+        "url": "https://t.co/6rMK2MRAWW",
+        "username": "needygirl_anime",
+        "verified": false
+      }
+    ]
+  }
+}

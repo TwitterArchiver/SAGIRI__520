@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047762957619351552"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "conversation_id": "2047762963181060564",
+    "created_at": "2026-04-24T19:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047762963181060564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ecB1Sok49z",
+          "end": 28,
+          "expanded_url": "https://x.com/SAGIRI__520/status/2047762963181060564/photo/1",
+          "media_key": "3_2047762957619351552",
+          "start": 5,
+          "url": "https://t.co/ecB1Sok49z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047762963181060564",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這期神了 https://t.co/ecB1Sok49z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047762957619351552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsdj3ka0AADqfM.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047762957619351552"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "conversation_id": "2047762963181060564",
+        "created_at": "2026-04-24T19:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047762963181060564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ecB1Sok49z",
+              "end": 28,
+              "expanded_url": "https://x.com/SAGIRI__520/status/2047762963181060564/photo/1",
+              "media_key": "3_2047762957619351552",
+              "start": 5,
+              "url": "https://t.co/ecB1Sok49z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047762963181060564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這期神了 https://t.co/ecB1Sok49z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 94,
+          "like_count": 315,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 368
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      }
+    ]
+  }
+}

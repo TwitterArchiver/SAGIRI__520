@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020101892597329920"
+      ],
+      "media_source_tweet_id": [
+        "2020101896455790891"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2020405920942157891",
+    "created_at": "2026-02-08T07:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T08:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020405920942157891"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 23,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 49,
+          "start": 44,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1356577369314656256",
+          "start": 3,
+          "username": "yumo_x_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2bWjEMAWod",
+          "end": 73,
+          "expanded_url": "https://x.com/yumo_x_x/status/2020101896455790891/photo/1",
+          "media_key": "3_2020101892597329920",
+          "start": 50,
+          "url": "https://t.co/2bWjEMAWod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020405920942157891",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 621
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020101896455790891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yumo_x_x: 合作しました🩷🩵\n#NEEDY_GIRL_OVERDOSE\n#初音ミク https://t.co/2bWjEMAWod"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020101892597329920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjX9-ZbsAAM04D.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020101892597329920"
+          ],
+          "media_source_tweet_id": [
+            "2020101896455790891"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2020405920942157891",
+        "created_at": "2026-02-08T07:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T08:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020405920942157891"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 23,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1356577369314656256",
+              "start": 3,
+              "username": "yumo_x_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bWjEMAWod",
+              "end": 73,
+              "expanded_url": "https://x.com/yumo_x_x/status/2020101896455790891/photo/1",
+              "media_key": "3_2020101892597329920",
+              "start": 50,
+              "url": "https://t.co/2bWjEMAWod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020405920942157891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 621
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020101896455790891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yumo_x_x: 合作しました🩷🩵\n#NEEDY_GIRL_OVERDOSE\n#初音ミク https://t.co/2bWjEMAWod"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020101892597329920"
+          ]
+        },
+        "author_id": "1356577369314656256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2020101896455790891",
+        "created_at": "2026-02-07T11:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020101896455790891"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 9,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bWjEMAWod",
+              "end": 59,
+              "expanded_url": "https://x.com/yumo_x_x/status/2020101896455790891/photo/1",
+              "media_key": "3_2020101892597329920",
+              "start": 36,
+              "url": "https://t.co/2bWjEMAWod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020101896455790891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 281,
+          "impression_count": 29601,
+          "like_count": 3418,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 621
+        },
+        "reply_settings": "everyone",
+        "text": "合作しました🩷🩵\n#NEEDY_GIRL_OVERDOSE\n#初音ミク https://t.co/2bWjEMAWod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "普通高中生的抽象日常罢了\n\n08/双向情感障碍/自傷/od/宅",
+        "id": "1868259773067476992",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009692752465059840/53qy4-Wm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 36,
+          "like_count": 137,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 132
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-02T12:17:24.000Z",
+        "description": "🤍 illustration￤୨୧サブ⇒@yuuumo_x_x￤୨୧skeb停止中⇒https://t.co/87lXySD43T",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "yuuumo_x_x"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@yumo_xx",
+                "end": 65,
+                "expanded_url": "https://skeb.jp/@yumo_xx",
+                "start": 42,
+                "url": "https://t.co/87lXySD43T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/2d73fb6a-3fd6-…",
+                "end": 23,
+                "expanded_url": "https://lit.link/2d73fb6a-3fd6-41e5-b1fe-489da74939c0",
+                "start": 0,
+                "url": "https://t.co/Whs7V9NLBX"
+              }
+            ]
+          }
+        },
+        "id": "1356577369314656256",
+        "name": "ゆも❕",
+        "pinned_tweet_id": "1980555058287940077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998505228254244864/VZCI0Gxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3312,
+          "following_count": 427,
+          "like_count": 24334,
+          "listed_count": 27,
+          "media_count": 86,
+          "tweet_count": 1297
+        },
+        "url": "https://t.co/Whs7V9NLBX",
+        "username": "yumo_x_x",
+        "verified": false
+      }
+    ]
+  }
+}

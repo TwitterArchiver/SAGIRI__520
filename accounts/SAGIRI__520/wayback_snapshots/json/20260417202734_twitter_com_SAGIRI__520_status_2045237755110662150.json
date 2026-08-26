@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2045237755110662150",
+    "created_at": "2026-04-17T20:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T21:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045237755110662150"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045237755110662150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠好想笑啊，這種人最精了生活里啥也不是它老馮給他生出來回頭看一眼感覺賺了，老馮在大街上被幹還得笑著給人扶著吊，平常天天挨欺負偶然發現一個叫推特的東西發現這上面罵人不用負責就開始酷酷攻擊說白了現實生活體重遙遙領先良子家境不如民哥長的不如吉他張，老馮是福利姬死爹是植物人，讓讓它吧😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2045237755110662150",
+        "created_at": "2026-04-17T20:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045237755110662150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045237755110662150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠好想笑啊，這種人最精了生活里啥也不是它老馮給他生出來回頭看一眼感覺賺了，老馮在大街上被幹還得笑著給人扶著吊，平常天天挨欺負偶然發現一個叫推特的東西發現這上面罵人不用負責就開始酷酷攻擊說白了現實生活體重遙遙領先良子家境不如民哥長的不如吉他張，老馮是福利姬死爹是植物人，讓讓它吧😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043366201502597120/15BVF0-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 94,
+          "like_count": 304,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 346
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2029744369704878080"
+      ],
+      "media_source_tweet_id": [
+        "2029744604640334323"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "conversation_id": "2030039905330680153",
+    "created_at": "2026-03-06T21:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T22:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030039905330680153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1953637338539864066",
+          "start": 3,
+          "username": "YandereEito"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jN0QGwSxml",
+          "end": 54,
+          "expanded_url": "https://x.com/YandereEito/status/2029744604640334323/video/1",
+          "media_key": "13_2029744369704878080",
+          "start": 31,
+          "url": "https://t.co/jN0QGwSxml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030039905330680153",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1802
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029744604640334323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @YandereEito: ✧｡٩(ˊᗜˋ )و✧*｡ https://t.co/jN0QGwSxml"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27720,
+        "height": 530,
+        "media_key": "13_2029744369704878080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029744369704878080/img/H7Q3JkaATM5hBxUK.jpg",
+        "public_metrics": {
+          "view_count": 156218
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029744369704878080/vid/avc1/336x270/V0zaLg7wngLvfHO4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029744369704878080/vid/avc1/448x360/dfzXV5332NaA73cD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029744369704878080/vid/avc1/662x530/_vKy3mcDxTvsf0p6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029744369704878080/pl/NRhQmbNjZ1z44Z7s.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029744369704878080"
+          ],
+          "media_source_tweet_id": [
+            "2029744604640334323"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "conversation_id": "2030039905330680153",
+        "created_at": "2026-03-06T21:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T22:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030039905330680153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1953637338539864066",
+              "start": 3,
+              "username": "YandereEito"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jN0QGwSxml",
+              "end": 54,
+              "expanded_url": "https://x.com/YandereEito/status/2029744604640334323/video/1",
+              "media_key": "13_2029744369704878080",
+              "start": 31,
+              "url": "https://t.co/jN0QGwSxml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030039905330680153",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1802
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029744604640334323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @YandereEito: ✧｡٩(ˊᗜˋ )و✧*｡ https://t.co/jN0QGwSxml"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029744369704878080"
+          ]
+        },
+        "author_id": "1953637338539864066",
+        "conversation_id": "2029744604640334323",
+        "created_at": "2026-03-06T02:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029744604640334323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jN0QGwSxml",
+              "end": 37,
+              "expanded_url": "https://x.com/YandereEito/status/2029744604640334323/video/1",
+              "media_key": "13_2029744369704878080",
+              "start": 14,
+              "url": "https://t.co/jN0QGwSxml"
+            },
+            {
+              "display_url": "x.com/YandereEito/st…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/YandereEito/status/2029734010927419818",
+              "start": 38,
+              "url": "https://t.co/ZxJ1P5Z7W2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029744604640334323",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2756,
+          "impression_count": 604250,
+          "like_count": 14746,
+          "quote_count": 197,
+          "reply_count": 31,
+          "retweet_count": 1802
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029734010927419818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "✧｡٩(ˊᗜˋ )و✧*｡ https://t.co/jN0QGwSxml https://t.co/ZxJ1P5Z7W2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校",
+        "id": "1868259773067476992",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009692752465059840/53qy4-Wm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 32,
+          "like_count": 179,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 180
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T02:00:44.000Z",
+        "description": "*eats rat poison and kisses you* Last Time I Killed Myself: 3/5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "normaleito.straw.page",
+                "end": 23,
+                "expanded_url": "https://normaleito.straw.page",
+                "start": 0,
+                "url": "https://t.co/3bFV99R9FR"
+              }
+            ]
+          }
+        },
+        "id": "1953637338539864066",
+        "location": "Adult (20+) 🔞🔞🔞 He/Him/His",
+        "name": "Yandere Eito Aotsuki (´• ω •`) ♡",
+        "pinned_tweet_id": "1953646853331071046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026900615436390400/t4wXLPVo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5448,
+          "following_count": 214,
+          "like_count": 12071,
+          "listed_count": 31,
+          "media_count": 3545,
+          "tweet_count": 34787
+        },
+        "url": "https://t.co/3bFV99R9FR",
+        "username": "YandereEito",
+        "verified": false
+      }
+    ]
+  }
+}

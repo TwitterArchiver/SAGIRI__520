@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089887585548275712"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "conversation_id": "2089887591445438695",
+    "created_at": "2026-08-19T01:30:04.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T02:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089887591445438695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Aw3j5UHRVN",
+          "end": 84,
+          "expanded_url": "https://x.com/SAGIRI__520/status/2089887591445438695/photo/1",
+          "media_key": "3_2089887585548275712",
+          "start": 61,
+          "url": "https://t.co/Aw3j5UHRVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089887591445438695",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089887585548275712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白兔居然卖的这么火爆吗？\n我最开始就是想简单帮推友和群友们代理一下的说\n\n我手上的货有限，价格合适，想吃白兔的可以私我哦 https://t.co/Aw3j5UHRVN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_2089887585548275712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDFr7UakAA7W1X.jpg",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089887585548275712"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "conversation_id": "2089887591445438695",
+        "created_at": "2026-08-19T01:30:04.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T02:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089887591445438695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aw3j5UHRVN",
+              "end": 84,
+              "expanded_url": "https://x.com/SAGIRI__520/status/2089887591445438695/photo/1",
+              "media_key": "3_2089887585548275712",
+              "start": 61,
+              "url": "https://t.co/Aw3j5UHRVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089887591445438695",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089887585548275712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白兔居然卖的这么火爆吗？\n我最开始就是想简单帮推友和群友们代理一下的说\n\n我手上的货有限，价格合适，想吃白兔的可以私我哦 https://t.co/Aw3j5UHRVN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "08/od/自伤/双向/宅属性/不登校\n欢迎扩列",
+        "id": "1868259773067476992",
+        "is_identity_verified": false,
+        "location": "盧布朗咖啡廳",
+        "most_recent_tweet_id": "2089887591445438695",
+        "name": "𓏵喵小懒𓏵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868259773067476992/1776547339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 105,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "SAGIRI__520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

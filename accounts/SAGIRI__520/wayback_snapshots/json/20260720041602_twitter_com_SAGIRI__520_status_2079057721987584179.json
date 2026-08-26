@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074556130169090049"
+      ],
+      "media_source_tweet_id": [
+        "2074556663105740986"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "conversation_id": "2079057721987584179",
+    "created_at": "2026-07-20T04:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079057721987584179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1421559633076949002",
+          "start": 3,
+          "username": "_kyacchi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G4oOgeE2wo",
+          "end": 95,
+          "expanded_url": "https://x.com/_kyacchi/status/2074556663105740986/video/1",
+          "media_key": "13_2074556130169090049",
+          "start": 72,
+          "url": "https://t.co/G4oOgeE2wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079057721987584179",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2420
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074556663105740986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_kyacchi: Every reference, finally complete! YT version in comments https://t.co/G4oOgeE2wo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90773,
+        "height": 1080,
+        "media_key": "13_2074556130169090049",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074556130169090049/img/Z0oIS67B_LjAsmXR.jpg",
+        "public_metrics": {
+          "view_count": 998848
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074556130169090049/vid/avc1/480x270/bSaxcXp-zZOSLsfC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074556130169090049/vid/avc1/640x360/kDtUqKKUI8gjTSNq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074556130169090049/vid/avc1/1280x720/9dU3zT54RqDbOOC-.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074556130169090049/pl/DLiy4gqkBQGPkrcv.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074556130169090049"
+          ]
+        },
+        "author_id": "1421559633076949002",
+        "conversation_id": "2074556663105740986",
+        "created_at": "2026-07-07T18:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074556663105740986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4oOgeE2wo",
+              "end": 81,
+              "expanded_url": "https://x.com/_kyacchi/status/2074556663105740986/video/1",
+              "media_key": "13_2074556130169090049",
+              "start": 58,
+              "url": "https://t.co/G4oOgeE2wo"
+            },
+            {
+              "display_url": "x.com/d0nut2x/status…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/d0nut2x/status/2072723025829494953",
+              "start": 82,
+              "url": "https://t.co/NH3yGZFAHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074556663105740986",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4512,
+          "impression_count": 1869511,
+          "like_count": 12133,
+          "quote_count": 187,
+          "reply_count": 22,
+          "retweet_count": 2420
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072723025829494953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Every reference, finally complete! YT version in comments https://t.co/G4oOgeE2wo https://t.co/NH3yGZFAHI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074556130169090049"
+          ],
+          "media_source_tweet_id": [
+            "2074556663105740986"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "conversation_id": "2079057721987584179",
+        "created_at": "2026-07-20T04:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079057721987584179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1421559633076949002",
+              "start": 3,
+              "username": "_kyacchi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4oOgeE2wo",
+              "end": 95,
+              "expanded_url": "https://x.com/_kyacchi/status/2074556663105740986/video/1",
+              "media_key": "13_2074556130169090049",
+              "start": 72,
+              "url": "https://t.co/G4oOgeE2wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079057721987584179",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2420
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074556663105740986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_kyacchi: Every reference, finally complete! YT version in comments https://t.co/G4oOgeE2wo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 100,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T19:54:14.000Z",
+        "description": "also at: @kyacchi_ | she/her | opinions my own | no longer posting art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "kyacchi_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@kyacchi",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@kyacchi",
+                "start": 0,
+                "url": "https://t.co/lMCwVO0W2B"
+              }
+            ]
+          }
+        },
+        "id": "1421559633076949002",
+        "name": "キャッチ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500014443270393860/1NVN164G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 50,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/lMCwVO0W2B",
+        "username": "_kyacchi",
+        "verified": false
+      }
+    ]
+  }
+}

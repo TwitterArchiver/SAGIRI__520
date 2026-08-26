@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2033199946917392389",
+    "created_at": "2026-03-16T10:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T11:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033498393016951194"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033498393016951194",
+    "in_reply_to_user_id": "1868259773067476992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033199946917392389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我抽到的寶子怎麼都不回我(´இωஇ｀)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 445,
+        "media_key": "3_2033199930819633152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdgkJHaYAA2q5S.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2033199946917392389",
+        "created_at": "2026-03-16T10:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T11:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033498393016951194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033498393016951194",
+        "in_reply_to_user_id": "1868259773067476992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033199946917392389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我抽到的寶子怎麼都不回我(´இωஇ｀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033199930819633152"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "conversation_id": "2033199946917392389",
+        "created_at": "2026-03-15T15:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033199946917392389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R741PYCNT4",
+              "end": 98,
+              "expanded_url": "https://x.com/SAGIRI__520/status/2033199946917392389/photo/1",
+              "media_key": "3_2033199930819633152",
+              "start": 75,
+              "url": "https://t.co/R741PYCNT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033199946917392389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4150,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "求求你們和我互fo\n50fo之前和我互fo的我抽3個人\n一人一盒普瑞（150mg）\n想折現也沒問題\n求求你們來和我互fo\nദ്ദി˶˃ ᵕ ˂ )✧ https://t.co/R741PYCNT4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033200309066178560/jrHaSlp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 69,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 221
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      }
+    ]
+  }
+}

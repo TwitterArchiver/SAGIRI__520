@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044863112835399680"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "conversation_id": "2044863151012040805",
+    "created_at": "2026-04-16T19:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T20:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044863151012040805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rbdsbAe6RI",
+          "end": 36,
+          "expanded_url": "https://x.com/SAGIRI__520/status/2044863151012040805/video/1",
+          "media_key": "7_2044863112835399680",
+          "start": 13,
+          "url": "https://t.co/rbdsbAe6RI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044863151012040805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一動一動的哦～咕嘰咕嘰～ https://t.co/rbdsbAe6RI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6070,
+        "height": 1280,
+        "media_key": "7_2044863112835399680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044863112835399680/pu/img/KuPj6Pxjn1GR8fTF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044863112835399680/pu/vid/avc1/320x568/cYHSVyS-_Y6OmlNx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044863112835399680/pu/vid/avc1/480x852/UwFiERRJElbarVmk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044863112835399680/pu/vid/avc1/720x1280/5YnP-u4vvNd0Eaqv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044863112835399680/pu/pl/7hkyDciBNvjwL6O4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044863112835399680"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "conversation_id": "2044863151012040805",
+        "created_at": "2026-04-16T19:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T20:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044863151012040805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rbdsbAe6RI",
+              "end": 36,
+              "expanded_url": "https://x.com/SAGIRI__520/status/2044863151012040805/video/1",
+              "media_key": "7_2044863112835399680",
+              "start": 13,
+              "url": "https://t.co/rbdsbAe6RI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044863151012040805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一動一動的哦～咕嘰咕嘰～ https://t.co/rbdsbAe6RI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043366201502597120/15BVF0-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 93,
+          "like_count": 298,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 340
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      }
+    ]
+  }
+}

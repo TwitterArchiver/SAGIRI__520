@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015542721034022912"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "conversation_id": "2015542728353079334",
+    "created_at": "2026-01-25T21:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T22:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015542728353079334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RXUz1u90bm",
+          "end": 30,
+          "expanded_url": "https://x.com/SAGIRI__520/status/2015542728353079334/photo/1",
+          "media_key": "3_2015542721034022912",
+          "start": 7,
+          "url": "https://t.co/RXUz1u90bm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015542728353079334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "† 下墜 † https://t.co/RXUz1u90bm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1117,
+        "media_key": "3_2015542721034022912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ilbQzbcAAKX4S.jpg",
+        "width": 897
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015542721034022912"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "conversation_id": "2015542728353079334",
+        "created_at": "2026-01-25T21:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T22:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015542728353079334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXUz1u90bm",
+              "end": 30,
+              "expanded_url": "https://x.com/SAGIRI__520/status/2015542728353079334/photo/1",
+              "media_key": "3_2015542721034022912",
+              "start": 7,
+              "url": "https://t.co/RXUz1u90bm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015542728353079334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "† 下墜 † https://t.co/RXUz1u90bm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "普通高中生的抽象日常罢了\n\n08/双向情感障碍/自傷/od/宅",
+        "id": "1868259773067476992",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009692752465059840/53qy4-Wm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 38,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 117
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      }
+    ]
+  }
+}

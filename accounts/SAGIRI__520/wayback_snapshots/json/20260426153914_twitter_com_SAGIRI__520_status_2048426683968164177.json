@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2048163460752818579",
+    "created_at": "2026-04-26T15:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048426683968164177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871856668818227200",
+          "start": 0,
+          "username": "SEISEI_YUYU_EX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048426683968164177",
+    "in_reply_to_user_id": "1871856668818227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048329033310761137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SEISEI_YUYU_EX pdd有的還可以買"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2048163460752818579",
+        "created_at": "2026-04-26T15:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048426683968164177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871856668818227200",
+              "start": 0,
+              "username": "SEISEI_YUYU_EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048426683968164177",
+        "in_reply_to_user_id": "1871856668818227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048329033310761137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEISEI_YUYU_EX pdd有的還可以買"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871856668818227200",
+        "conversation_id": "2048163460752818579",
+        "created_at": "2026-04-26T09:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048329033310761137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868259773067476992",
+              "start": 0,
+              "username": "SAGIRI__520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048329033310761137",
+        "in_reply_to_user_id": "1868259773067476992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048163460752818579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAGIRI__520 糖浆不是买不到了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/無性別",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 93,
+          "like_count": 317,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 374
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T09:53:30.000Z",
+        "description": "OD&リスカㅣ語言學ㅣLanguage🇨🇳🇯🇵🇰🇷🇻🇳🇺🇸🇫🇷ㅣ04ㅣINFPㅣ特攝ㅣ動畫ㅣ寶可夢",
+        "id": "1871856668818227200",
+        "location": "XANADU",
+        "name": "青々悠々",
+        "pinned_tweet_id": "2029990238769270840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047892375008387073/QgXC3zgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 489,
+          "like_count": 6059,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 737
+        },
+        "username": "SEISEI_YUYU_EX",
+        "verified": false
+      }
+    ]
+  }
+}

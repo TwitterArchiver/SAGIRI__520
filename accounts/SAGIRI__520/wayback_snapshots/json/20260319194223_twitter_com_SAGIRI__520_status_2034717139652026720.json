@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2034717139652026720",
+    "created_at": "2026-03-19T19:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T20:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034717139652026720"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034717139652026720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晶哥也沒來抓我，應該就是動態監管了，真沒招了，真是這最近一堆麻煩事，讓我消停兩天吧😇好不容易情緒穩定了一段時間，中午又被賤人和他媽的一堆破事弄的崩潰了吃個麻辣燙沒吃消停去廁所割手的也是沒誰了，我真沒招了，誰看我不順眼你跟我說一聲唄，不用麻煩你我立馬就去死，我這條賤命也就這樣了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2034717139652026720",
+        "created_at": "2026-03-19T19:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T20:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034717139652026720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034717139652026720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥也沒來抓我，應該就是動態監管了，真沒招了，真是這最近一堆麻煩事，讓我消停兩天吧😇好不容易情緒穩定了一段時間，中午又被賤人和他媽的一堆破事弄的崩潰了吃個麻辣燙沒吃消停去廁所割手的也是沒誰了，我真沒招了，誰看我不順眼你跟我說一聲唄，不用麻煩你我立馬就去死，我這條賤命也就這樣了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033200309066178560/jrHaSlp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 87,
+          "like_count": 249,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 232
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2021973101006008713",
+    "created_at": "2026-02-12T15:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021973103333814611"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021973103333814611",
+    "in_reply_to_user_id": "1868259773067476992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021973101006008713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就應該去死我好痛苦我好難受我頭疼我渾身疼我活不下去了我想活著讓我幸福讓我快樂過去不要纏著我未來我求你充滿希望我要殺了那些讓我痛苦的人我要幸福我要快樂我要舒服我要被愛愛我吧愛我吧好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2021973101006008713",
+        "created_at": "2026-02-12T15:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021973103333814611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021973103333814611",
+        "in_reply_to_user_id": "1868259773067476992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021973101006008713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就應該去死我好痛苦我好難受我頭疼我渾身疼我活不下去了我想活著讓我幸福讓我快樂過去不要纏著我未來我求你充滿希望我要殺了那些讓我痛苦的人我要幸福我要快樂我要舒服我要被愛愛我吧愛我吧好不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2021973101006008713",
+        "created_at": "2026-02-12T15:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021973101006008713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021973101006008713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這一切都是虛假的，虛幻的，沒有人願意接受你的負能量，這個時候我就會想起她，她是一個不錯的女孩，可能是，我不配，我不配任何人愛我，就讓我去死吧，我應該自己一個人爛在家裏，我對別人來說只是禍害，我只會讓別人開心可我從沒收到過對我的反饋我需要東西很多，我從來沒有得到過"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "普通高中生的抽象日常罢了\n\n08/双向情感障碍/自傷/od/宅",
+        "id": "1868259773067476992",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009692752465059840/53qy4-Wm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 152
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      }
+    ]
+  }
+}

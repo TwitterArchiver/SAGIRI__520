@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2033566729050419300",
+    "created_at": "2026-03-16T20:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T21:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033637104690073928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1877047495781695488",
+          "start": 0,
+          "username": "puuans7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033637104690073928",
+    "in_reply_to_user_id": "1877047495781695488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033566729050419300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puuans7 我有 ⁰̴̷̷ ˙̮ ⁰̴̷̷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2033566729050419300",
+        "created_at": "2026-03-16T20:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T21:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033637104690073928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1877047495781695488",
+              "start": 0,
+              "username": "puuans7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033637104690073928",
+        "in_reply_to_user_id": "1877047495781695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033566729050419300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puuans7 我有 ⁰̴̷̷ ˙̮ ⁰̴̷̷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877047495781695488",
+        "conversation_id": "2033566729050419300",
+        "created_at": "2026-03-16T15:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033566729050419300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033566729050419300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求普瑞处方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033200309066178560/jrHaSlp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 83,
+          "like_count": 238,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 222
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T17:39:41.000Z",
+        "description": "",
+        "id": "1877047495781695488",
+        "location": "Valkenburg aan de Geul",
+        "name": "k k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877047706667057152/Hj5P9It3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 78,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "puuans7",
+        "verified": false
+      }
+    ]
+  }
+}

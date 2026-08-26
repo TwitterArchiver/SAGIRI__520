@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042505674786234368"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "conversation_id": "2042505677919363210",
+    "created_at": "2026-04-10T07:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042505677919363210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KVlmbwIBwe",
+          "end": 68,
+          "expanded_url": "https://x.com/SAGIRI__520/status/2042505677919363210/photo/1",
+          "media_key": "3_2042505674786234368",
+          "start": 45,
+          "url": "https://t.co/KVlmbwIBwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042505677919363210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我她媽笑死了哈哈哈哈哈哈哈哈誰懂我這個雷霆笑點你媽給我送快遞的是一個穿山甲？媽的笑死我了 https://t.co/KVlmbwIBwe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1768,
+        "media_key": "3_2042505674786234368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhwFu1aYAAD_KR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042505674786234368"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "conversation_id": "2042505677919363210",
+        "created_at": "2026-04-10T07:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042505677919363210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVlmbwIBwe",
+              "end": 68,
+              "expanded_url": "https://x.com/SAGIRI__520/status/2042505677919363210/photo/1",
+              "media_key": "3_2042505674786234368",
+              "start": 45,
+              "url": "https://t.co/KVlmbwIBwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042505677919363210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我她媽笑死了哈哈哈哈哈哈哈哈誰懂我這個雷霆笑點你媽給我送快遞的是一個穿山甲？媽的笑死我了 https://t.co/KVlmbwIBwe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "偶爾發癲\n想要成為正常人\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校",
+        "id": "1868259773067476992",
+        "location": "盧布朗咖啡廳",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033200309066178560/jrHaSlp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 93,
+          "like_count": 296,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 326
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      }
+    ]
+  }
+}

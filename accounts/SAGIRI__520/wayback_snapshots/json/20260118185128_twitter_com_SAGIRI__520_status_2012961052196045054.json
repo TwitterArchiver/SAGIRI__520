@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012441314881916929",
+        "3_2012441314856673280"
+      ],
+      "media_source_tweet_id": [
+        "2012441322402062408",
+        "2012441322402062408"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "conversation_id": "2012961052196045054",
+    "created_at": "2026-01-18T18:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T19:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012961052196045054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1776227060262088704",
+          "start": 3,
+          "username": "119_kqz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sPmuW8Cud2",
+          "end": 58,
+          "expanded_url": "https://x.com/119_kqz/status/2012441322402062408/photo/1",
+          "media_key": "3_2012441314881916929",
+          "start": 35,
+          "url": "https://t.co/sPmuW8Cud2"
+        },
+        {
+          "display_url": "pic.x.com/sPmuW8Cud2",
+          "end": 58,
+          "expanded_url": "https://x.com/119_kqz/status/2012441322402062408/photo/1",
+          "media_key": "3_2012441314856673280",
+          "start": 35,
+          "url": "https://t.co/sPmuW8Cud2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012961052196045054",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012441322402062408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @119_kqz: アルゴリズムに存在を消されかねないので再掲 https://t.co/sPmuW8Cud2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012441314881916929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2gtqjbUAEPnHN.jpg",
+        "width": 1335
+      },
+      {
+        "height": 1437,
+        "media_key": "3_2012441314856673280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2gtqdaIAAaQj0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012441314881916929",
+            "3_2012441314856673280"
+          ],
+          "media_source_tweet_id": [
+            "2012441322402062408",
+            "2012441322402062408"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "conversation_id": "2012961052196045054",
+        "created_at": "2026-01-18T18:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T19:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012961052196045054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1776227060262088704",
+              "start": 3,
+              "username": "119_kqz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sPmuW8Cud2",
+              "end": 58,
+              "expanded_url": "https://x.com/119_kqz/status/2012441322402062408/photo/1",
+              "media_key": "3_2012441314881916929",
+              "start": 35,
+              "url": "https://t.co/sPmuW8Cud2"
+            },
+            {
+              "display_url": "pic.x.com/sPmuW8Cud2",
+              "end": 58,
+              "expanded_url": "https://x.com/119_kqz/status/2012441322402062408/photo/1",
+              "media_key": "3_2012441314856673280",
+              "start": 35,
+              "url": "https://t.co/sPmuW8Cud2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012961052196045054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012441322402062408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @119_kqz: アルゴリズムに存在を消されかねないので再掲 https://t.co/sPmuW8Cud2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012441314881916929",
+            "3_2012441314856673280"
+          ]
+        },
+        "author_id": "1776227060262088704",
+        "conversation_id": "2012441322402062408",
+        "created_at": "2026-01-17T08:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012441322402062408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sPmuW8Cud2",
+              "end": 45,
+              "expanded_url": "https://x.com/119_kqz/status/2012441322402062408/photo/1",
+              "media_key": "3_2012441314881916929",
+              "start": 22,
+              "url": "https://t.co/sPmuW8Cud2"
+            },
+            {
+              "display_url": "pic.x.com/sPmuW8Cud2",
+              "end": 45,
+              "expanded_url": "https://x.com/119_kqz/status/2012441322402062408/photo/1",
+              "media_key": "3_2012441314856673280",
+              "start": 22,
+              "url": "https://t.co/sPmuW8Cud2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012441322402062408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 24877,
+          "like_count": 2633,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "アルゴリズムに存在を消されかねないので再掲 https://t.co/sPmuW8Cud2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": "普通高中生的抽象日常罢了\n\n08/双向情感障碍/自傷/od/宅",
+        "id": "1868259773067476992",
+        "name": "𓏵喵小懒𓏵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009692752465059840/53qy4-Wm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 39,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 116
+        },
+        "username": "SAGIRI__520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T12:35:16.000Z",
+        "description": "𓆑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kqirai",
+                "end": 23,
+                "expanded_url": "https://lit.link/kqirai",
+                "start": 0,
+                "url": "https://t.co/d7tKoFaxCp"
+              }
+            ]
+          }
+        },
+        "id": "1776227060262088704",
+        "location": "高校生  ⬇️ご依頼について  絵:無断転載無断使用禁止",
+        "name": "低脳。",
+        "pinned_tweet_id": "1969721197941436774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776320454871203841/K5AyNsws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4005,
+          "following_count": 37,
+          "like_count": 3362,
+          "listed_count": 11,
+          "media_count": 48,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/d7tKoFaxCp",
+        "username": "119_kqz",
+        "verified": false
+      }
+    ]
+  }
+}
