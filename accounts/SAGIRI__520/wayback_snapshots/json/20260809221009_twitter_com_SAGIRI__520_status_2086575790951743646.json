@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2081050611458703376",
+    "created_at": "2026-08-09T22:10:09.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T23:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086575790951743646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687566770763071489",
+          "start": 0,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086575790951743646",
+    "in_reply_to_user_id": "1687566770763071489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081050611458703376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olebe179131 我需要普瑞……我的存货要吃没了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2081050597105758209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFgfgAacAEWuNZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2081050597047033856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFgffyaYAAMUKP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2081050597084848128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFgff7bYAAQdsG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2081050611458703376",
+        "created_at": "2026-08-09T22:10:09.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T23:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086575790951743646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086575790951743646",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081050611458703376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 我需要普瑞……我的存货要吃没了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081050597105758209",
+            "3_2081050597047033856",
+            "3_2081050597084848128"
+          ]
+        },
+        "author_id": "1687566770763071489",
+        "conversation_id": "2081050611458703376",
+        "created_at": "2026-07-25T16:15:04.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081050611458703376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "玉米"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "pr80"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "愈美"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LoWgcCEd0b",
+              "end": 63,
+              "expanded_url": "https://x.com/Olebe179131/status/2081050611458703376/photo/1",
+              "media_key": "3_2081050597105758209",
+              "start": 40,
+              "url": "https://t.co/LoWgcCEd0b"
+            },
+            {
+              "display_url": "pic.x.com/LoWgcCEd0b",
+              "end": 63,
+              "expanded_url": "https://x.com/Olebe179131/status/2081050611458703376/photo/1",
+              "media_key": "3_2081050597047033856",
+              "start": 40,
+              "url": "https://t.co/LoWgcCEd0b"
+            },
+            {
+              "display_url": "pic.x.com/LoWgcCEd0b",
+              "end": 63,
+              "expanded_url": "https://x.com/Olebe179131/status/2081050611458703376/photo/1",
+              "media_key": "3_2081050597084848128",
+              "start": 40,
+              "url": "https://t.co/LoWgcCEd0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081050611458703376",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2081050597105758209"
+          },
+          {
+            "media_key": "3_2081050597047033856"
+          },
+          {
+            "media_key": "3_2081050597084848128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 489,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有玉米和PR的购买渠道，有需要的宝宝可以私我或评论\n#玉米\n#pr80\n#愈美 https://t.co/LoWgcCEd0b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "description": ".  。·*༙ ✟  升天  ✟ *༙· 。.\n\n08/enfp/双向情感障碍/自傷/od/宅/舟/不登校/性別是神",
+        "id": "1868259773067476992",
+        "is_identity_verified": false,
+        "location": "盧布朗咖啡廳",
+        "most_recent_tweet_id": "2086575790951743646",
+        "name": "𓏵喵小懒𓏵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868259773067476992/1776547339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 100,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "SAGIRI__520",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定/百合厨/二次元/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)还玩蔚蓝档案和碧蓝航线\n欢迎互fo",
+        "id": "1687566770763071489",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2084546255062208556",
+        "name": "多柔比星(豆乃版)",
+        "pinned_tweet_id": "2045366449938878769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687566770763071489/1774773459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081038066681257984/exHmDDs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 575,
+          "like_count": 29608,
+          "listed_count": 0,
+          "media_count": 1004,
+          "tweet_count": 3443
+        },
+        "url": "",
+        "username": "Olebe179131",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
