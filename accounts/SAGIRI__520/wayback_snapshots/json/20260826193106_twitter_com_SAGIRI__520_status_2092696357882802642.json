@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2092696357882802642",
+    "created_at": "2026-08-26T19:31:06.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092696357882802642"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092696357882802642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于麻黄的体验\n我是用的普通水烟壶，效果大概持续了三个小时左右，很明显的感觉心跳加速了，血压升高，有很明显的疲惫感减轻，出了些汗，明显焦虑感，后续感觉肺部有轻微不适感\n\n总结\n比普通使用方式能更快吸收麻黄碱，但是不推荐，效果比泡水更好，但是麻黄燃烧的烟雾不是很能接受，不推荐任何人模仿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2092696357882802642",
+        "created_at": "2026-08-26T19:31:06.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092696357882802642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092696357882802642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于麻黄的体验\n我是用的普通水烟壶，效果大概持续了三个小时左右，很明显的感觉心跳加速了，血压升高，有很明显的疲惫感减轻，出了些汗，明显焦虑感，后续感觉肺部有轻微不适感\n\n总结\n比普通使用方式能更快吸收麻黄碱，但是不推荐，效果比泡水更好，但是麻黄燃烧的烟雾不是很能接受，不推荐任何人模仿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08/od/自伤/双向/宅属性/不登校/药代/🚪30\n免费药物作用咨询\n欢迎扩列",
+        "id": "1868259773067476992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2092696357882802642",
+        "name": "𓏵喵小懒𓏵",
+        "pinned_tweet_id": "2090861773717135702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868259773067476992/1776547339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 118,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 628
+        },
+        "url": "",
+        "username": "SAGIRI__520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

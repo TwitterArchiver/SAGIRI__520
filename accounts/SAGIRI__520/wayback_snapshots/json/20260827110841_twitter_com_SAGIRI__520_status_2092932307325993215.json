@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092932300917149697"
+      ]
+    },
+    "author_id": "1868259773067476992",
+    "conversation_id": "2092932307325993215",
+    "created_at": "2026-08-27T11:08:41.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092932307325993215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Arqk79eWKY",
+          "end": 36,
+          "expanded_url": "https://x.com/SAGIRI__520/status/2092932307325993215/photo/1",
+          "media_key": "3_2092932300917149697",
+          "start": 13,
+          "url": "https://t.co/Arqk79eWKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092932307325993215",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092932300917149697"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有什么打发时间的方法 https://t.co/Arqk79eWKY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2092932300917149697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuW1r8bkAEJ7SK.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092932300917149697"
+          ]
+        },
+        "author_id": "1868259773067476992",
+        "conversation_id": "2092932307325993215",
+        "created_at": "2026-08-27T11:08:41.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092932307325993215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Arqk79eWKY",
+              "end": 36,
+              "expanded_url": "https://x.com/SAGIRI__520/status/2092932307325993215/photo/1",
+              "media_key": "3_2092932300917149697",
+              "start": 13,
+              "url": "https://t.co/Arqk79eWKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092932307325993215",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092932300917149697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么打发时间的方法 https://t.co/Arqk79eWKY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08/od/自伤/双向/宅属性/不登校/药代/🚪30\n免费药物作用咨询\n欢迎扩列",
+        "id": "1868259773067476992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2092932307325993215",
+        "name": "𓏵喵小懒𓏵",
+        "pinned_tweet_id": "2090861773717135702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868259773067476992/1776547339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 120,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "SAGIRI__520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
