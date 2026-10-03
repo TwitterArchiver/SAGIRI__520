@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868259773067476992",
+    "conversation_id": "2104460776878801045",
+    "created_at": "2026-09-28T06:38:42.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T07:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104460776878801045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/berrybun_04/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/berrybun_04/status/2104159020596768996",
+          "start": 8,
+          "url": "https://t.co/qpSIasvjbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104460776878801045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104159020596768996",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看得我不得劲… https://t.co/qpSIasvjbq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1713,
+        "media_key": "3_2104159012782845952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTN5eUvbsAAWnkQ.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868259773067476992",
+        "conversation_id": "2104460776878801045",
+        "created_at": "2026-09-28T06:38:42.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104460776878801045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/berrybun_04/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/berrybun_04/status/2104159020596768996",
+              "start": 8,
+              "url": "https://t.co/qpSIasvjbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104460776878801045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104159020596768996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看得我不得劲… https://t.co/qpSIasvjbq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104159012782845952"
+          ]
+        },
+        "author_id": "1955916052925452288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104159020596768996",
+        "created_at": "2026-09-27T10:39:38.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104159020596768996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSk5vpxKMh",
+              "end": 36,
+              "expanded_url": "https://x.com/berrybun_04/status/2104159020596768996/photo/1",
+              "media_key": "3_2104159012782845952",
+              "start": 13,
+              "url": "https://t.co/qSk5vpxKMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104159020596768996",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104159012782845952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 441289,
+          "like_count": 2129,
+          "quote_count": 23,
+          "reply_count": 509,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "孩子有什么错 看得我难受 https://t.co/qSk5vpxKMh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T11:40:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08/od/自伤/双向/宅属性/不登校/药代/🚪80\n免费药物作用咨询\n欢迎扩列",
+        "id": "1868259773067476992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2104460776878801045",
+        "name": "𓏵喵小懒𓏵",
+        "pinned_tweet_id": "2090861773717135702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868259773067476992/1776547339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045614545448865792/gGwNhUPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 118,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "SAGIRI__520",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-14T08:55:10.000Z",
+        "description": "我好呆萌 好想哭\n另一个我@fadai202202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "fadai202202"
+              }
+            ]
+          }
+        },
+        "id": "1955916052925452288",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2104279768376152279",
+        "name": "呆呆",
+        "pinned_tweet_id": "2096785733264769137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955916052925452288/1776340004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053627084942258176/hlAO1A4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3804,
+          "following_count": 1,
+          "like_count": 410,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 665
+        },
+        "url": "",
+        "username": "berrybun_04",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
